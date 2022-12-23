@@ -4,10 +4,6 @@
 
 <br/>
 
-🔗 Development blog : [kts6056.github.io](https://kts6056.github.io)  
-
-<br/>
-
 <p align="">
 😎&nbsp;
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"></code>
